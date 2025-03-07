@@ -57,7 +57,7 @@
 
 ### 🔥 Let's Connect!
 💬 Have an interesting project or idea? Feel free to **reach out**!  
-📩 **Email:** your-email@example.com *(replace with your actual email)*  
+
 
 ---
 
