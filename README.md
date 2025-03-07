@@ -32,11 +32,7 @@
 
 ---
 
-### 🔥 Featured Projects:
-✅ **[BYOD Network Management Portal](https://github.com/yourrepo)** - Developed a **network security tool** using `pfSense APIs` to manage firewall rules and monitor bandwidth usage.  
-✅ **[TIKTAK ESP32 Deauther](https://github.com/yourrepo)** - Created a **Wi-Fi deauthentication tool** for ethical hacking and security testing.  
-✅ **[Indian Sign Language Detector](https://github.com/yourrepo)** - Built an **AI-powered model** to recognize sign language gestures using `computer vision`.  
-✅ **[Hardware Keylogger](https://github.com/yourrepo)** - Implemented a **wireless keylogger** using `ESP32` for security research.  
+
 
 ---
 
