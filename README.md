@@ -1,6 +1,6 @@
 ### Hi there, I'm Siva Sastha Sai Krishna! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
 
-**Cybersecurity | IoT | Cloud Computing | Ethical Hacking**  
+**Cybersecurity |AI&ML | IoT | Cloud Computing | Ethical Hacking**  
 
 🔍 Passionate about **system security, automation, and cutting-edge tech**  
 💡 Exploring **penetration testing, network security, and cloud-based defense mechanisms**  
